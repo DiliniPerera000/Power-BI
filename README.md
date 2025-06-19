@@ -1,4 +1,5 @@
 ![Screenshot 2025-06-20 022049](https://github.com/user-attachments/assets/d1c09cf4-a473-4ff6-a328-7ed5d704cb79)
+
 ODEL Sales Analysis Dashboard – Power BI
 This interactive Power BI report provides a comprehensive analysis of sales performance for the retail brand ODEL. The dashboard is designed to deliver clear insights into revenue trends, product performance, and regional contributions.
 
