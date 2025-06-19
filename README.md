@@ -17,11 +17,11 @@ Retailer performance: Comparison of total sales by major retailers like Foot Loc
 Interactive filters: Date range and province slicers for dynamic analysis.
 
 📌 Tools & Skills Used:
+
 Power BI Desktop
 
 Data Modeling
 
-DAX (Data Analysis Expressions)
 
 Power Query (Data Transformation)
 
